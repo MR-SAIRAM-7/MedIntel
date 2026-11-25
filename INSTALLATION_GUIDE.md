@@ -84,7 +84,7 @@ MedIntel is a comprehensive AI-powered health assistant that analyzes medical re
 2. **Update Backend Configuration**
    ```bash
    # In backend/.env, replace:
-   EMERGENT_LLM_KEY=sk-emergent-9Bc18CbF5C05cAeE59
+   EMERGENT_LLM_KEY=your-key-here
    
    # With your OpenAI key:
    OPENAI_API_KEY=your-openai-api-key-here
